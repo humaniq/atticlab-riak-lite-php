@@ -1,0 +1,19 @@
+{
+  "name": "atticlab/riak-lite-php",
+  "description": "PHP library to operate with Riak DB",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Attic lab",
+      "email": "inbox@atticlab.net"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Atticlab\\RiakLite\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=5.4"
+  }
+}
